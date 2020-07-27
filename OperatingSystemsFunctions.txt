@@ -6,3 +6,8 @@ It decides the order in which processes have access to the processor, and how mu
 The Operating System is responsible for detection of any types of error or bugs that can occur while you are running any task.
 A well secured OS sometimes acts as a countermeasure for any virus or bugs trying to get into your computer
 you can also download 3rd party apps that will help secure your device and your information.
+
+The operating system manages the Primary Memory or Main Memory. 
+the main memory is a fast storage and can be accessed by the cpu.
+For a program to be executed, it should be first loaded in the main memory. 
+In multi programming, the OS decides the order in which process are granted access to memory, and for how long.
