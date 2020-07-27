@@ -2,3 +2,7 @@ Th proccesor management has many diffrent functions.
 It manages device communication via the drivers they are dedicated to. 
 It keeps tracks of all devices connected to the system.
 It decides the order in which processes have access to the processor, and how much processing time each process has.
+
+The Operating System is responsible for detection of any types of error or bugs that can occur while you are running any task.
+A well secured OS sometimes acts as a countermeasure for any virus or bugs trying to get into your computer
+you can also download 3rd party apps that will help secure your device and your information.
